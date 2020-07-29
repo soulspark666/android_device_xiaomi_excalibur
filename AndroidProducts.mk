@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_curtana.mk
+    $(LOCAL_DIR)/omni_excalibur.mk
 
-COMMON_LUNCH_CHOICES := omni_curtana-eng
+COMMON_LUNCH_CHOICES := omni_excalibur-eng
